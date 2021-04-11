@@ -1,4 +1,4 @@
-# I am woman reflection
+# I am woman reflection (continued)
 
 Strong, cause, invincible: These are words that came up most frequently when I did a text analysis of the lyrics using Voyant Tools. From me, these words are highly evocative of the feelings that I found expressed in the interviews I collected for my union research. I associate strong with physical stamina, which I think was certainly part of the successful certification campaigns conducted by faculty, librarians, and support staff at the university. Certainly, individuals and groups had to be strong enough to engage in persuasive speech, to sit in public gathering signatures on union cards, and to hold on to their convictions when faced with opposition. Strong is also about being angry in that anger can provide an ongoing rush of energy that can be needed when engaged in struggles for social justice and collective mobilization.
 
