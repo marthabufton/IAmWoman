@@ -1,6 +1,4 @@
-# I am woman 
-
-(Continued)
+# Continued
 
 Strong, cause, invincible: These are words that came up most frequently when I did a text analysis of the lyrics using Voyant Tools. From me, these words are highly evocative of the feelings that I found expressed in the interviews I collected for my union research. I associate strong with physical stamina, which I think was certainly part of the successful certification campaigns conducted by faculty, librarians, and support staff at the university. Certainly, individuals and groups had to be strong enough to engage in persuasive speech, to sit in public gathering signatures on union cards, and to hold on to their convictions when faced with opposition. Strong is also about being angry in that anger can provide an ongoing rush of energy that can be needed when engaged in struggles for social justice and collective mobilization.
 Anger can be bright, but it can also be dark, and I think that song also captures the sorrow that can also fuel anger, both explicitly and implicitly. Those that fought for unionization, certainly grieved when they were not able to accomplish certain goals initially. Maternity leave was one dream that was not realized in 1975/76 and opposition from male colleagues led more than one female activist to tears.
@@ -18,3 +16,7 @@ Another “truth” for me is that writing lyrically or expressively, is somethi
 I am planning to take a course in writing creative non-fiction this fall because I think that learning more about that genre of writing will help me become a better historian, a better teller of stories: strong and invincible.
 
 [1] This pencil drawing is featured in the banner for this page in the portfolio along with the cirrus (word cloud) from my Voyant analysis.
+
+Reference list
+
+Holbrook , M.B. (1990). Presidential address the role of lyricism in research on consumer emotions: Skylark, have you anything to say to me?. In M. E. Goldberg, G. Gorn, & R. W. Pollay (Eds.), *NA - Advances in consumer research Volume 17* (pp. 1-18). Association for Consumer Research.
